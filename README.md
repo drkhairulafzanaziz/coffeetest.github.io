@@ -1,2 +1,1 @@
-# coffeetest.github.io
-This web base apps to test coffee
+# Welcome to your Dyad app
